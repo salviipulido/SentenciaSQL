@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="IS2">
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD8/src/is2epd8/Experimento.java</file>
+        </group>
+        <group>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/EquipoModelImpl.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/EquipoImpl.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/vista/EquipoViewImpl.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/vista/EquipoView.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/controlador/EquipoControllerImpl.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/EquipoModel.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/Equipo.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/vista/EquiposTableModel.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/persistencia/JDBC/EquipoDAOJDBC.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/controlador/EquipoController.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/vista/JPanelEquipo.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/persistencia/JDBC/Persistencia.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/main/Main.java</file>
+            <file>file:/E:/Alumnado/Examen_MVC/Apellido1_Apellido2_Nombre/IS2EPD/src/modelo/persistencia/EquipoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
